@@ -14,7 +14,7 @@ permalink: /safety/
 {:.text-center}
 
 ### Driver Background Check
-Includes criminal background check, drug screening, and fingerprinting as allowed by law. Our drivers must be legally able to work in the US. We verify residence within the local community and that the driver holds a valid driver's license with a clean record for the past 5 years. [More details.](/background-check-detail)
+Includes criminal background check, drug screening, and fingerprinting as allowed by law. Our drivers must be legally able to work in the US. We verify residence within the local community and that the driver holds a valid driver's license with a clean record for the past 5 years. [More details.]({{site.baseurl}}/background-check-detail)
 
 ### Verified Driver Assessment
 
@@ -26,7 +26,7 @@ Our drivers must be over 25 years of age and have maintained a clean driving rec
 
 ### Required Vehicle Inspection
 
-We run a complete motor vehicle records check on every driver and a comprehensive [19-point vehicle safety inspection](/vehicle-inspection-detail/).
+We run a complete motor vehicle records check on every driver and a comprehensive [19-point vehicle safety inspection]({{site.baseurl}}/vehicle-inspection-detail/).
 
 ### Mandatory Vehicle Insurance
 

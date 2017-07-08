@@ -10,7 +10,7 @@ permalink: /vehicle-inspection-detail/
 
 ---------------------
 
-#### One of Community Carpool's many [safety assurances](/safety/) is a mandatory 19-point vehicle inspection, to be performed on the vehicle that each Community Carpool driver applicant intends to use for rides.
+#### One of Community Carpool's many [safety assurances]({{site.baseurl}}/safety/) is a mandatory 19-point vehicle inspection, to be performed on the vehicle that each Community Carpool driver applicant intends to use for rides.
 {:.text-center}
 
 ### 19-point inspection includes:
