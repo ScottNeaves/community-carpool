@@ -40,7 +40,7 @@ Information Collected by Our Servers.  To make our Application and Services more
 
 ### Log Files.  
 
-As is true of most websites, we gather certain information automatically and store it in log files, This information includes IP addresses, browser type, Internet service provider ("ISP"), referring/exit pages, operating system, date/time stamp, and clickstream data, We use this information to analyze trends, administer the Services, track users' movements around the Services, gather demographic information about our user base as a whole, and better tailor our Services to our users' needs, For example, some of the information may be collected so that when you visit the Application or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests,
+As is true of most websites, we gather certain information automatically and store it in log files, This information includes IP addresses, browser type, Internet service provider ("ISP"), referring/exit pages, operating system, date/time stamp, and clickstream data, We use this information to analyze trends, administer the Services, track users' movements around the Services, gather demographic information about our user base as a whole, and better tailor our Services to our users' needs, For example, some of the information may be collected so that when you visit the Application or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests.
 
 ### Cookies.  
 
